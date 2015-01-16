@@ -1,0 +1,12 @@
+
+
+.panel {
+	display: inline-block;
+	width: 33%;
+	background: green;
+}
+
+.newList {
+	
+	font-color: green;
+}
